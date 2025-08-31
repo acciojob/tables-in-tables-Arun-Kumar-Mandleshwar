@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+        table,
+        th,
+        td {
+            border: 1px solid black;
+        }
+
+        table {
+/*            vertical-align: center; */
+            text-align: center;
+			width: 100%; 
+
+        }
+        .blacktext{
+            color: white;
+            background-color: black;;
+        }
